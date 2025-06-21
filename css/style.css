@@ -54,7 +54,6 @@ body {
     color: #000;
     text-indent: 40px;
     text-align: justify;
-    /* width: 400px; */
 }
 
 /* My projects section */
@@ -142,9 +141,6 @@ body {
 
 .my-work-experience-company {
     color: #FB6D3A;
-}
-.my-work-experience-section {
-margin-bottom: 45px;
 }
 
  /* my-education-section */
