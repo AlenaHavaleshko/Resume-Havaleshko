@@ -23,6 +23,7 @@ body {
     font-size: 22px;
     line-height: 27px;
     color: #000;
+    margin-top: 0px;
     margin-bottom: 10px;
  }
 
@@ -95,6 +96,26 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: black;
+}
+
+.role {
+    margin: 0px;
+}
+
+.tech-stack-desc {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+    text-align: justify;
+    margin: 0px 0px 10px 0px;
+
+}
+
+.tech-stack {
+    color: #FB6D3A;
+    font-weight: bold;
 }
 
 /* my-work-experience-section */
